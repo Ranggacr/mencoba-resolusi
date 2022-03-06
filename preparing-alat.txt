@@ -3,3 +3,7 @@ PERSIAPAN ALAT-ALAT
   *alat musik
     ^gitar-2
     ^drum
+    ^keyboard
+    ^bass
+  *light
+  *cable

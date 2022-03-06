@@ -1,6 +1,7 @@
 RENCANA MANGGUNG
 -jakarta
  *SCBD
+ *Monas
 -bogor
  *tugu kujang
 -bekasi

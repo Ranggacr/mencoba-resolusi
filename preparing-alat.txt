@@ -1,0 +1,9 @@
+PERSIAPAN ALAT-ALAT
+  *soundsystem
+  *alat musik
+    ^gitar-2
+    ^drum
+    ^keyboard
+    ^bass
+  *light
+  *cable

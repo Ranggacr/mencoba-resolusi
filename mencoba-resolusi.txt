@@ -1,6 +1,6 @@
 Musik
 -jazz
 -rock
--pop
 -R&B
 -metal
+-reggae

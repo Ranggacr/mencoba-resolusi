@@ -1,10 +1,11 @@
 RENCANA MANGGUNG
 -jakarta
- *jalan sudirman
- *holywing
+ *SCBD
+ *Monas
 -bogor
-  *surken
+ *tugu kujang
 -bekasi
 -semarang
 -arab
 -afrika
+-spanyol

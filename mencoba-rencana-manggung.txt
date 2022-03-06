@@ -1,7 +1,10 @@
 RENCANA MANGGUNG
 -jakarta
+ *SCBD
 -bogor
+ *tugu kujang
 -bekasi
 -semarang
 -arab
 -afrika
+-spanyol
